@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\bin\Debug\net6.0\BankAccountProject.exe
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\bin\Debug\net6.0\BankAccountProject.deps.json
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\bin\Debug\net6.0\BankAccountProject.runtimeconfig.json
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\bin\Debug\net6.0\BankAccountProject.dll
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\bin\Debug\net6.0\BankAccountProject.pdb
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\obj\Debug\net6.0\BankAccountProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\obj\Debug\net6.0\BankAccountProject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\obj\Debug\net6.0\BankAccountProject.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\obj\Debug\net6.0\BankAccountProject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\obj\Debug\net6.0\BankAccountProject.dll
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\obj\Debug\net6.0\refint\BankAccountProject.dll
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\obj\Debug\net6.0\BankAccountProject.pdb
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\obj\Debug\net6.0\BankAccountProject.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\My Codes\BankAccountProject\BankAccountProject\obj\Debug\net6.0\ref\BankAccountProject.dll

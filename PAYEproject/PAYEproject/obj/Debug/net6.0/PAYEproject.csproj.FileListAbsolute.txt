@@ -1,0 +1,28 @@
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\bin\Debug\net6.0\PAYEproject.exe
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\bin\Debug\net6.0\PAYEproject.deps.json
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\bin\Debug\net6.0\PAYEproject.runtimeconfig.json
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\bin\Debug\net6.0\PAYEproject.dll
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\bin\Debug\net6.0\PAYEproject.pdb
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.dll
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\obj\Debug\net6.0\refint\PAYEproject.dll
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.pdb
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\My Codes\PAYEproject\PAYEproject\obj\Debug\net6.0\ref\PAYEproject.dll
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\bin\Debug\net6.0\PAYEproject.exe
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\bin\Debug\net6.0\PAYEproject.deps.json
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\bin\Debug\net6.0\PAYEproject.runtimeconfig.json
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\bin\Debug\net6.0\PAYEproject.dll
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\bin\Debug\net6.0\PAYEproject.pdb
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.dll
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\obj\Debug\net6.0\refint\PAYEproject.dll
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.pdb
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\obj\Debug\net6.0\PAYEproject.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\COMP223GroupProject\PAYEproject\PAYEproject\obj\Debug\net6.0\ref\PAYEproject.dll

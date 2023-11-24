@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\obj\Debug\net6.0\CurrencyConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\obj\Debug\net6.0\CurrencyConversion.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\obj\Debug\net6.0\CurrencyConversion.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\obj\Debug\net6.0\CurrencyConversion.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\bin\Debug\net6.0\CurrencyConversion.exe
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\bin\Debug\net6.0\CurrencyConversion.deps.json
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\bin\Debug\net6.0\CurrencyConversion.runtimeconfig.json
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\bin\Debug\net6.0\CurrencyConversion.dll
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\bin\Debug\net6.0\CurrencyConversion.pdb
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\obj\Debug\net6.0\CurrencyConversion.dll
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\obj\Debug\net6.0\refint\CurrencyConversion.dll
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\obj\Debug\net6.0\CurrencyConversion.pdb
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\obj\Debug\net6.0\CurrencyConversion.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\CurrencyConversion\CurrencyConversion\obj\Debug\net6.0\ref\CurrencyConversion.dll

@@ -1,0 +1,28 @@
+C:\Users\ADMIN\Desktop\df\df\bin\Debug\net6.0\df.exe
+C:\Users\ADMIN\Desktop\df\df\bin\Debug\net6.0\df.deps.json
+C:\Users\ADMIN\Desktop\df\df\bin\Debug\net6.0\df.runtimeconfig.json
+C:\Users\ADMIN\Desktop\df\df\bin\Debug\net6.0\df.dll
+C:\Users\ADMIN\Desktop\df\df\bin\Debug\net6.0\df.pdb
+C:\Users\ADMIN\Desktop\df\df\obj\Debug\net6.0\df.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\df\df\obj\Debug\net6.0\df.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\df\df\obj\Debug\net6.0\df.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\df\df\obj\Debug\net6.0\df.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\df\df\obj\Debug\net6.0\df.dll
+C:\Users\ADMIN\Desktop\df\df\obj\Debug\net6.0\refint\df.dll
+C:\Users\ADMIN\Desktop\df\df\obj\Debug\net6.0\df.pdb
+C:\Users\ADMIN\Desktop\df\df\obj\Debug\net6.0\df.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\df\df\obj\Debug\net6.0\ref\df.dll
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\bin\Debug\net6.0\df.exe
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\bin\Debug\net6.0\df.deps.json
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\bin\Debug\net6.0\df.runtimeconfig.json
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\bin\Debug\net6.0\df.dll
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\bin\Debug\net6.0\df.pdb
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\obj\Debug\net6.0\df.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\obj\Debug\net6.0\df.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\obj\Debug\net6.0\df.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\obj\Debug\net6.0\df.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\obj\Debug\net6.0\df.dll
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\obj\Debug\net6.0\refint\df.dll
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\obj\Debug\net6.0\df.pdb
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\obj\Debug\net6.0\df.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\WaterBill Calculator\df\obj\Debug\net6.0\ref\df.dll
