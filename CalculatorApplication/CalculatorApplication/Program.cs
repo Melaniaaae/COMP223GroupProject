@@ -24,6 +24,7 @@ class Calculator
                     double num2 = Convert.ToDouble(Console.ReadLine());
                     Console.Write("Enter operator: ");
                     string operation = Console.ReadLine();
+                    
 
                     if (operation == "+")
                     {
