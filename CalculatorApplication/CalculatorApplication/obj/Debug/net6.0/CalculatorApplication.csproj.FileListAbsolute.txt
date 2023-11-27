@@ -12,3 +12,17 @@ C:\Users\ADMIN\desktop\CalculatorApplication\CalculatorApplication\obj\Debug\net
 C:\Users\ADMIN\desktop\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\CalculatorApplication.pdb
 C:\Users\ADMIN\desktop\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\CalculatorApplication.genruntimeconfig.cache
 C:\Users\ADMIN\desktop\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\ref\CalculatorApplication.dll
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\bin\Debug\net6.0\CalculatorApplication.exe
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\bin\Debug\net6.0\CalculatorApplication.deps.json
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\bin\Debug\net6.0\CalculatorApplication.runtimeconfig.json
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\bin\Debug\net6.0\CalculatorApplication.dll
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\bin\Debug\net6.0\CalculatorApplication.pdb
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\CalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\CalculatorApplication.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\CalculatorApplication.dll
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\refint\CalculatorApplication.dll
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\CalculatorApplication.pdb
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\CalculatorApplication.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\COMP223GroupProject\CalculatorApplication\CalculatorApplication\obj\Debug\net6.0\ref\CalculatorApplication.dll

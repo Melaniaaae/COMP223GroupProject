@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\desktop\\CalculatorApplication\\CalculatorApplication\\CalculatorApplication.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\COMP223GroupProject\\CalculatorApplication\\CalculatorApplication\\CalculatorApplication.csproj",
       "projectName": "CalculatorApplication",
-      "projectPath": "C:\\Users\\ADMIN\\desktop\\CalculatorApplication\\CalculatorApplication\\CalculatorApplication.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\COMP223GroupProject\\CalculatorApplication\\CalculatorApplication\\CalculatorApplication.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\desktop\\CalculatorApplication\\CalculatorApplication\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\COMP223GroupProject\\CalculatorApplication\\CalculatorApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

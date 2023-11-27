@@ -24,41 +24,42 @@ class Calculator
                     double num2 = Convert.ToDouble(Console.ReadLine());
                     Console.Write("Enter operator: ");
                     string operation = Console.ReadLine();
-                    
 
-                    if (operation == "+")
+
+                    switch (operation)
                     {
-                        Console.WriteLine($"Answer: {num1 + num2}");
-                        break;
-                    }
-                    else if (operation == "-")
-                    {
-                        Console.WriteLine($"Answer: {num1 - num2}");
-                        break;
-                    }
-                    else if (operation == "*")
-                    {
-                        Console.WriteLine($"Answer: {num1 * num2}");
-                        break;
-                    }
-                    else if (operation == "/")
-                    {
-                        try
-                        {
-                            double answer = num1 / num2;
-                            Console.WriteLine($"Answer: {answer}");
+                        case "+":
+                            Console.WriteLine($"Answer: {num1 + num2}");
+                            running = false;
                             break;
-                        }
-                        catch(DivideByZeroException e)
-                        {
-                            Console.WriteLine(e.Message);
+                        case "-":
+                            Console.WriteLine($"Answer: {num1 - num2}");
+                            running = false;
                             break;
-                        }
+                        case "*":
+                            Console.WriteLine($"Answer: {num1 * num2}");
+                            running = false;
+                            break;
+                        case "/":
+                            if (num2 != 0)
+                            {
+                                double answer = num1 / num2;
+                                Console.WriteLine($"Answer: {answer}");
+                                running = false;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Cannot divide by zero. Please enter a non-zero divisor.");
+                            }
+                            break;
+                        default:
+                            Console.WriteLine("Invalid operator. Please enter +, -, *, or /.");
+                            break;
                     }
                 }
-                catch 
+                catch (FormatException)
                 {
-                    continue;
+                    Console.WriteLine("Invalid input. Please enter valid numbers.");
                 }
             }
     }
